@@ -1,6 +1,6 @@
 # NLua-Compiler
 
-[[Windows Download]](https://github.com/Zaroxqs/NLua-Compiler/files/8949977/NLua.Compiler.zip) <br>
+[Windows Download](https://github.com/Zaroxqs/NLua-Compiler/files/8949977/NLua.Compiler.zip) <br>
 
 ## Lua compiler made in .NET Core 3.1, C#, using NLua.
 
