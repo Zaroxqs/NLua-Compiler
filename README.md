@@ -1,4 +1,4 @@
-# NLua-Compiler
+# NLua Compiler
 
 [Windows Download](https://github.com/Zaroxqs/NLua-Compiler/files/8949977/NLua.Compiler.zip) <br>
 
