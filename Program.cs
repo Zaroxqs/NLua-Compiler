@@ -1,7 +1,7 @@
 ﻿using NLua;
 using System;
 
-namespace Lua_Compiler
+namespace NLua_Compiler
 {
     internal class Program
     {
