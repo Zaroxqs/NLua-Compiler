@@ -1,9 +1,9 @@
-﻿using NLua;
+using NLua;
 using System;
 
 namespace NLua_Compiler
 {
-    internal class Program
+    internal static class Program
     {
         private static readonly Lua State = new Lua();
         private static void Read()
@@ -13,8 +13,7 @@ namespace NLua_Compiler
             {
                 string Input = Console.ReadLine();
 
-                if (Input == "Exit()") { Environment.Exit(0); }
-                else if (Input == "Clear()") { Console.Clear(); Read(); }
+                if (Input == "Clear()") { Console.Clear(); break; }
                 else { try { State.DoString(Input); } catch (Exception Excpt) { Console.WriteLine(Excpt); } }
             }
         }
@@ -22,7 +21,7 @@ namespace NLua_Compiler
         private static void Main()
         {
             State.LoadCLRPackage();
-            Read();
+            while (true) { Read(); }
         }
     }
 }
