@@ -6,10 +6,8 @@ namespace NLua_Compiler
     internal class Program
     {
         private static readonly Lua State = new Lua();
-        private static int Line;
         private static void Read()
         {
-            Line = 1;
             Console.WriteLine("Lua 5.4.4  Copyright (C) 1994-2022 Lua.org, PUC-Rio\n");
             while (true)
             {
