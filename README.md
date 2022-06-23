@@ -13,7 +13,6 @@ Check out the [NLua README](https://github.com/NLua/NLua/blob/main/README.md) fo
 ## Custom Functions
 ![](https://user-images.githubusercontent.com/101127566/175394396-a7c147cd-d1f0-4af5-830a-34ad00b6449f.png)
 
-
 ## Contributing
 Pull requests are more than welcome. For major changes, please open an issue first to discuss what you would like to change.
 
