@@ -1,6 +1,8 @@
 # NLua Compiler
 [![CodeFactor](https://www.codefactor.io/repository/github/zaroxqs/nlua-compiler/badge/main)](https://www.codefactor.io/repository/github/zaroxqs/nlua-compiler/overview/main)
 
+![](https://user-images.githubusercontent.com/101127566/175386842-b05da7ff-218a-40dd-bec0-b96c3c793cbb.png)
+
 A Lua compiler made in .NET Core 3.1, C#, using NLua.
 
 All this really means is that you can use regular Lua with NLua functions.
