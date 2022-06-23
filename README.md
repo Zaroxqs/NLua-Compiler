@@ -12,3 +12,5 @@ Check out the [NLua README](https://github.com/NLua/NLua/blob/main/README.md) fo
 
 > Exit() <br>
 > Clear()
+
+[![CodeFactor](https://www.codefactor.io/repository/github/zaroxqs/nlua-compiler/badge/main)](https://www.codefactor.io/repository/github/zaroxqs/nlua-compiler/overview/main)
