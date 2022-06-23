@@ -1,5 +1,4 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/zaroxqs/nlua-compiler/badge/main)](https://www.codefactor.io/repository/github/zaroxqs/nlua-compiler/overview/main) <br>
-<br>
 # NLua Compiler
 [Windows Download(x86-64)](https://github.com/Zaroxqs/NLua-Compiler/files/8949977/NLua.Compiler.zip) <br>
 
