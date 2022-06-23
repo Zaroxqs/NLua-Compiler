@@ -1,6 +1,7 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/zaroxqs/nlua-compiler/badge/main)](https://www.codefactor.io/repository/github/zaroxqs/nlua-compiler/overview/main) <br>
 # NLua Compiler
 
-[Windows Download](https://github.com/Zaroxqs/NLua-Compiler/files/8949977/NLua.Compiler.zip) <br>
+[Windows Download(x86-64)](https://github.com/Zaroxqs/NLua-Compiler/files/8949977/NLua.Compiler.zip) <br>
 
 ## Lua compiler made in .NET Core 3.1, C#, using NLua.
 
@@ -11,6 +12,4 @@ Check out the [NLua README](https://github.com/NLua/NLua/blob/main/README.md) fo
 ## Custom Functions
 
 > Exit() <br>
-> Clear()<br>
-
-[![CodeFactor](https://www.codefactor.io/repository/github/zaroxqs/nlua-compiler/badge/main)](https://www.codefactor.io/repository/github/zaroxqs/nlua-compiler/overview/main)
+> Clear()
