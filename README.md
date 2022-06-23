@@ -11,6 +11,6 @@ Check out the [NLua README](https://github.com/NLua/NLua/blob/main/README.md) fo
 ## Custom Functions
 
 > Exit() <br>
-> Clear()
-<br>
+> Clear()<br>
+
 [![CodeFactor](https://www.codefactor.io/repository/github/zaroxqs/nlua-compiler/badge/main)](https://www.codefactor.io/repository/github/zaroxqs/nlua-compiler/overview/main)
