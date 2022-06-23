@@ -10,8 +10,8 @@ Check out the [NLua README](https://github.com/NLua/NLua/blob/main/README.md) fo
 ## Downloads
 [Windows (x86-64)](https://github.com/Zaroxqs/NLua-Compiler/files/8949977/NLua.Compiler.zip)
 
-## Custom Commands
-> Exit() <br>
+## Custom Functions
+> Exit() 
 > Clear()
 
 ## Contributing
