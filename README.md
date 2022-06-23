@@ -8,7 +8,7 @@ All this really means is that you can use regular Lua with NLua functions.
 Check out the [NLua README](https://github.com/NLua/NLua/blob/main/README.md) for more info.
 
 ## Downloads
-[Windows (x86-64)](https://github.com/Zaroxqs/NLua-Compiler/files/8968682/NLua.Compiler.zip)
+[Windows (x86-64)](https://github.com/Zaroxqs/NLua-Compiler/releases/download/v1.0.2/NLua.Compiler.zip)
 
 ## Custom Functions
 ![](https://user-images.githubusercontent.com/101127566/175394396-a7c147cd-d1f0-4af5-830a-34ad00b6449f.png)
