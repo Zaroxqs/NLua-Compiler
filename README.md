@@ -11,7 +11,7 @@ Check out the [NLua README](https://github.com/NLua/NLua/blob/main/README.md) fo
 [Windows (x86-64)](https://github.com/Zaroxqs/NLua-Compiler/files/8949977/NLua.Compiler.zip)
 
 ## Custom Functions
-> Exit() 
+> Exit() <br>
 > Clear()
 
 ## Contributing
